@@ -1,10 +1,15 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Lista de Tarefas
+
+Projeto desenvolvido como forma de avaliação durante o curso de Desenvolvimento Web que realizei na Trybe (https://www.betrybe.com/).
+
+Avaliação referente à seção de introdução a JavaScript.
+
+## Objetivo
+
+- Implementar uma página web que contém uma lista de tarefas funcional que poderá ser utilizada, usando `javascript`, `css` e `html`.
+
+## Habilidades Utilizadas
+
+- Manipular CSS
+
+- Manipular Javascript
